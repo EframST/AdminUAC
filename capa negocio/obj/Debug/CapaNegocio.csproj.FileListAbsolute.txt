@@ -1,0 +1,6 @@
+C:\Users\abdee\source\repos\Solution1\capa negocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\abdee\source\repos\Solution1\capa negocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\abdee\source\repos\Solution1\capa negocio\bin\Debug\capa negocio.dll
+C:\Users\abdee\source\repos\Solution1\capa negocio\bin\Debug\capa negocio.pdb
+C:\Users\abdee\source\repos\Solution1\capa negocio\obj\Debug\capa negocio.dll
+C:\Users\abdee\source\repos\Solution1\capa negocio\obj\Debug\capa negocio.pdb
